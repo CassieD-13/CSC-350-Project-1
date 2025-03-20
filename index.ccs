@@ -13,6 +13,3 @@ font-size: 30px; /* px stands for pixel */
 }
 </style>
 </head>
-<body>
-<h1>Cascade Style Sheet Demo</h1>
-</body>
