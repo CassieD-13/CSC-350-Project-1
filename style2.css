@@ -2,8 +2,9 @@ body {
 
 }
 table, th, td {
-border: 3px solid red;
+border: 3px solid pink;
 border-collapse: collapse;
+text-align: center;
 }
 th, td {
 padding: 10px;
