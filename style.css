@@ -2,7 +2,11 @@
 body {
 background-image: url('https://images.pexels.com/photos/1353938/pexels-photo-1353938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
 }
+h1{
+  font-family: Courier;
+  text-align: center;
+  color: pink;
+}
 p {
-text-align: center;
-color: blue;
+text-align: left;
 }
