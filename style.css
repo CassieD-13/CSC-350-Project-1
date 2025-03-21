@@ -1,6 +1,6 @@
 
 body {
-background-image: https://www.pexels.com/photo/green-leaf-1353938/;
+background-image: url('https://www.pexels.com/photo/green-leaf-1353938/');
 }
 p {
 text-align: center;
