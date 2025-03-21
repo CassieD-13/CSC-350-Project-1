@@ -1,11 +1,8 @@
 
 body {
-background-color : #F8C8DC;
+background-image: https://www.pexels.com/photo/green-leaf-1353938/;
 }
 p {
 text-align: center;
 color: blue;
-}
-div {
-background-image: https://www.pexels.com/photo/green-leaf-1353938/;
 }
