@@ -1,13 +1,15 @@
 
 body {
+color: #5C4033;
+font-family: Courier;
+}
+
+.background{
 background-image: url('https://images.pexels.com/photos/1353938/pexels-photo-1353938.jpeg?auto=compress&cs=tinysrgb&w=1200');
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
 background-filter: brightness(1.8);
-  
-color: #5C4033;
-font-family: Courier;
 }
 
 h1{
