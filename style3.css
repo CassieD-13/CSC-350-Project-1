@@ -1,13 +1,13 @@
 body {
 
   font-family: New Times Roman;
-   margin: 20px auto;
+  padding: 20px;
 }
 
 h1{
   font-size: 30px;
 }
-hr{ width: 80%;
+hr{ width: 90%;
    height: 3px;
    background-color: black;
    text-align: left
