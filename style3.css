@@ -1,7 +1,13 @@
 body {
 color: light grey;
 }
-h1,p{
+h1,p1{
   text-align: center;
   background-color: grey;
+}
+p2{ 
+text-align: left;
+}
+p3{
+  text-align: right;
 }
