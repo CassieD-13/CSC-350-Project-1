@@ -11,6 +11,9 @@ ul {
   list-style-type: "\2665" &nbsp;
 }
 
-p {
+p.a {
 text-align: left;
+}
+p.b {
+  text-align-last: right;
 }
