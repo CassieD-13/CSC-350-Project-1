@@ -1,11 +1,10 @@
 body {
-color: light grey;
+color: White;
 }
 
 }
 h1{
   text-align: center;
-  background-color: grey;
 }
 h2{ 
 text-align: left;
@@ -13,9 +12,6 @@ text-align: left;
 h3{
   text-align: right;
 }
-p.a {
+p {
 text-align: left;
-}
-p.b {
-  text-align: right;
 }
