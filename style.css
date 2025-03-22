@@ -8,7 +8,7 @@ h1{
   color: pink;
 }
 ul {
-  list-style-type: "\2665 020";
+  list-style-type: "\2665" &nbsp;
 }
 
 p {
