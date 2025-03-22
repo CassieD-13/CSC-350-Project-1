@@ -21,7 +21,8 @@ table{
   margin: 20px 0 20px 100px;
 }
 th,td{
-  width: 35%;
+  width: 25%;
+  height: 50%
   min-width: 150px;
   min-height: 40px;
 }
