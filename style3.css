@@ -3,3 +3,9 @@ body {
   font-family: New Times Roman;
 }
 
+h1{
+  font-size: 20px;
+}
+hr{ width 50%;
+   height 3px;
+}
