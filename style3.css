@@ -1,13 +1,15 @@
 body {
 
   font-family: New Times Roman;
-}
+}https://github.com/CassieD-13/CSC-350-Project-1/blob/main/style3.css
 
 h1{
   font-size: 30px;
 }
 hr{ width: 80%;
    height: 3px;
-   color: black;
+   background-color: black;
    text-align: left
+   border: none;
+   margin: 20px auto;
 }
