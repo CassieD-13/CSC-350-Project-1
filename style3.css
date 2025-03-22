@@ -8,9 +8,9 @@ h1,p{
   text-align: center;
   background-color: grey;
 }
-p{ 
+h2{ 
 text-align: left;
 }
-p{
+h3{
   text-align: right;
 }
