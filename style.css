@@ -1,6 +1,6 @@
 
 body {
-background-image: url('https://images.pexels.com/photos/1353938/pexels-photo-1353938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+background-image: url('https://images.pexels.com/photos/876467/pexels-photo-876467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
 color: #5C4033;
 font-family: Courier;
 }
@@ -11,9 +11,9 @@ h1{
 }
 
 ul {
+  padding-left= 0;
   list-style-type: "\2665";
-  list-color-type: pink;
-  word-spacing: 3px;
+  margin-right: 10px;
   font-size: 20px;
 }
 
