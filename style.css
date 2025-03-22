@@ -8,12 +8,7 @@ h1{
   color: pink;
 }
 ul {
-    list-style: none;
-}
- ul li:before {
-    content: "\2665   ";
-    color: #FFC0CB;
-   text-align: left;
+  list-style-type: "\2665";
 }
 
 p {
