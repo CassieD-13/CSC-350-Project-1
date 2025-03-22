@@ -6,6 +6,6 @@ body {
 h1{
   font-size: 3px;
 }
-.long-hr{ width 50%;
-   height 3px;
+hr{ width: 50%;
+   height: 3px;
 }
