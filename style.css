@@ -7,6 +7,10 @@ h1{
   text-align: center;
   color: pink;
 }
+
+  li:before { content: &#9829
+             }
+
 p {
 text-align: left;
 }
