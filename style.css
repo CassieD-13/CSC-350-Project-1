@@ -6,9 +6,11 @@ h1{
   font-family: Courier;
   text-align: center;
   color: pink;
+  font-size: 70px;
 }
 ul {
-  list-style-type: "\2665" &nbsp;
+  list-style-type: "\2665";
+  color: pink;
 }
 
 
