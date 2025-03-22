@@ -4,13 +4,13 @@ color: light grey;
 div {
   display: block;
 }
-h1,p1{
+h1,p{
   text-align: center;
   background-color: grey;
 }
-p2{ 
+p{ 
 text-align: left;
 }
-p3{
+p{
   text-align: right;
 }
