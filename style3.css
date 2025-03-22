@@ -1,6 +1,9 @@
 body {
 color: light grey;
 }
+div {
+  display: block;
+}
 h1,p1{
   text-align: center;
   background-color: grey;
