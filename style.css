@@ -8,8 +8,9 @@ h1{
   color: pink;
 }
 
- ul {
-  list-style-type: "/2767"; 
+ ul li:before {
+    content: "\2665 020";
+    color: #9c5597;
 }
 
 p {
